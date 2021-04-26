@@ -9,4 +9,5 @@ now our work will continue localy
 3.we want this change to be reflected on our remote repository so we push local commit to remote repo using "push origin" button
 4.observe it on github.com(remote repo) 
 
-we dont have to push one commit at a time, we can push all later 
+we dont have to push one commit at a time, we can push all later
+ and one more note here 
