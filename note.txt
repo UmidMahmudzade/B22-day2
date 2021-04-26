@@ -8,3 +8,7 @@ now our work will continue localy
 2.commited the chjange  to local repo
 3.we want this change to be reflected on our remote repository so we push local commit to remote repo using "push origin" button
 4.observe it on github.com(remote repo) 
+
+aaaa
+we dont have to 
+ and adding more 
