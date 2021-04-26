@@ -1,0 +1,3 @@
+We just published our local git repo to remote github.com repo
+Few things happened:
+1. It automatically acreated something
